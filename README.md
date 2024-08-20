@@ -1,6 +1,6 @@
 # Finite State Machine Design
 
-**Name:** Pikkili Vishnuvardhan 
+**Name:** Pikkili Vishnuvardhan   
 **Company:** CODETECH IT SOLUTIONS  
 **ID:** CT12DS2170   
 **Domain:** VLSI  
